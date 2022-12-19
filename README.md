@@ -1,9 +1,3 @@
-# Instructions
-
-Created: March 23, 2022 1:47 AM
-
-alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, rho, sigma, tau, upsilon, phi, chi, psi, omega (normally skipped bc omega means dead)
-
 ```mermaid
 flowchart TD
 
@@ -21,8 +15,6 @@ P01----P03
 
 example: sarah (”alpha”) has littles nick (”delta”) and emma (”epsilon”), notice that sarah’s lines are longer because sarah did not pick up a little in the “beta” or “gamma” pledge classes. there are five dashes (’——-’) between her and nick and six (’———’) between her and emma
 
-![Untitled](Instructions%206af20c07756346ce8f2b1c8762ffe860/Untitled.png)
-
 ```mermaid
 flowchart TD
 
@@ -39,8 +31,6 @@ P04---P03
 ```
 
 example: kayla (”delta”) and emma (“epsilon”) share deva (”zeta”)
-
-![Untitled](Instructions%206af20c07756346ce8f2b1c8762ffe860/Untitled%201.png)
 
 ```mermaid
 flowchart TD
@@ -60,8 +50,6 @@ P04----P03
 ```
 
 example: sarah (”gamma”) and max (”gamma”) share angela (”epsilon”)
-
-![Untitled](Instructions%206af20c07756346ce8f2b1c8762ffe860/Untitled%202.png)
 
 ```mermaid
 flowchart TD
