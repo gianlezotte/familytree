@@ -2,8 +2,8 @@
 flowchart TD
 
 %% Colors %%
-classDef red fill:#8B0000,stroke:#000,color:#FFF
-classDef gold fill:#FFCC33,stroke:#FFF,color:#FFF
+classDef red fill:#8B0000,stroke:#FFF,color:#FFF
+classDef gold fill:#FFCC33,stroke:#FFF,color:#000
 
 %% Jamaal Roberson's Line %%
 M210("Jamaal Roberson"):::gold
