@@ -4,7 +4,7 @@ flowchart TD
 %% Colors %%
 
 classDef red fill:#8B0000,stroke:#000,color:#FFF
-classDef gold fill:#FFCC33,stroke:#000,color:#FFF
+classDef gold fill:#FFCC33,stroke:#FFF,color:#FFF
 
 %% Hilaire Garza's Line %%
 M232(Hilaire Garza):::gold---M255

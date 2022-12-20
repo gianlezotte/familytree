@@ -4,7 +4,7 @@ flowchart TD
 %% Colors %%
 
 classDef red fill:#8B0000,stroke:#000,color:#FFF
-classDef gold fill:#FFCC33,stroke:#000,color:#FFF
+classDef gold fill:#FFCC33,stroke:#FFF,color:#FFF
 
 %% Kelsie Alexander's Line %%
 M213(Kelsie Alexander):::gold---M252 & M269
