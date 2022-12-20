@@ -3,7 +3,7 @@ flowchart TD
 
 %% Colors %%
 classDef red fill:#8B0000,stroke:#000,color:#FFF
-classDef gold fill:#FFCC33,stroke:#000,color:#FFF
+classDef gold fill:#FFCC33,stroke:#FFF,color:#FFF
 
 %% Jamaal Roberson's Line %%
 M210("Jamaal Roberson"):::gold
@@ -14,16 +14,16 @@ M251("Gian Lezotte"):::red
 M251---M266 & M267
 M251----M280
 M251-----M298
-M266("Melchizedec Emanuel Correa"):::red
+M266("Melchizedec Correa"):::red
 M266---M287
 M266----M301
-M267("Michael Edward Potts"):::red
+M267("Michael Potts"):::red
 M267---M292
 M280("Avantika Chellury"):::red
-M287("Mikayla Leeann Wiest"):::red
+M287("Mikayla Wiest"):::red
 M292("Shaunak Dabir"):::red
-M298("Ryan Daniel Crowell"):::red
-M301("Olivia Christen Huhn"):::red
+M298("Ryan Crowell"):::red
+M301("Olivia Huhn"):::red
 
 %% Co-Relationships & Current Pledges %%
 M253("Gavin Nicely")
